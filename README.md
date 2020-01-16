@@ -1,1 +1,3 @@
-# tableau-fruit-juice-company
+# Curso da Alura de Tableau
+
+Fontes da Fruit Juice Company.
